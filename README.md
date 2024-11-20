@@ -6,4 +6,4 @@ The data was originally sourced from kaggle (link below).
 
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/
 
-I have also included a PCA file that could be of use
+I have also created a PCA file that could be of use
